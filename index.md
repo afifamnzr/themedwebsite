@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## this is a website.
 
-You can use the [editor on GitHub](https://github.com/afifamonzur/themedwebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis ipsum et dapibus tristique. Vestibulum tortor eros, consectetur quis turpis sodales, malesuada bibendum odio. Donec quis scelerisque est. Integer et luctus risus, sit amet finibus dolor. Donec rutrum sollicitudin venenatis. In dignissim pretium malesuada. Morbi elit massa, pulvinar ut nisl sed, feugiat convallis sem. Interdum et malesuada fames ac ante ipsum primis in faucibus.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### this is heading 3.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis ipsum et dapibus tristique. Vestibulum tortor eros, consectetur quis turpis sodales, malesuada bibendum odio. Donec quis scelerisque est. Integer et luctus risus, sit amet finibus dolor. Donec rutrum sollicitudin venenatis. 
 
 ```markdown
 Syntax highlighted code block
@@ -25,13 +23,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+# Testing 1 2 3 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/afifamonzur/themedwebsite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
